@@ -25,13 +25,12 @@ Feature
 - View Detail Kurikulum
 - Edit Walikelas
 - CRUD Menu
-- CRUD User(Super Admin/Admin/Keuangan)
+- CRUD User
 - Manage Rule User
 - Generate Jadwal Pelajaran(Not Genetic Algorithm)
 - Print Jadwal Pelajaran
 - Export Data Siswa
 - Input Nilai Siswa
-- Export Data Nilai (e-Raport)
 
 Requitment
 ----------
@@ -39,13 +38,7 @@ Requitment
 
 Login
 ----------
-|    Level     | Username  | Password |
-|:------------:|:---------:|---------:|
-| Admin        |  zuhuri   | 123456   |
-| Wali Kelas   |  adam     | 123456   |
-| Guru         |  dita     | 123456   |
-| Keuangan     |  putri    | 123456   |
+|    Level     | Username    | Password |
+|:------------:|:-----------:|---------:|
+| Admin        | Kelompok30  | 123456   |
 
-Support
-----------
-subscribe : https://www.youtube.com/channel/UCzusH2ZfKMQ-r9yc-g7oVtQ
