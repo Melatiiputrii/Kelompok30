@@ -3,7 +3,7 @@
 -- https://www.phpmyadmin.net/
 --
 -- Host: 127.0.0.1
--- Generation Time: Dec 13, 2022 at 04:16 PM
+-- Generation Time: Dec 17, 2022 at 05:18 AM
 -- Server version: 10.1.38-MariaDB
 -- PHP Version: 5.6.40
 
@@ -96,7 +96,6 @@ INSERT INTO `tabel_menu` (`id`, `nama_menu`, `link`, `icon`, `is_main_menu`) VAL
 (11, 'Jadwal Pelajaran', 'jadwal', 'fa fa-calendar-plus-o', 0),
 (12, 'Peserta Didik', 'siswa/siswa_aktif', 'fa fa-users', 0),
 (14, 'Forum Diskusi', 'diskusi', 'fa fa-id-badge', 0),
-(15, 'Menu', 'menu', 'fa fa-list', 0),
 (16, 'Form Pembayaran', 'pembayaran', 'fa fa-dollar', 0),
 (17, 'Nilai', 'nilai', 'fa fa-archive', 0),
 (18, 'Laporan Nilai', 'laporan_nilai', 'fa fa-file-pdf-o', 0);
